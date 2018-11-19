@@ -33,6 +33,11 @@
   font-weight: bold;
 }
 
+.header-nav-link:hover {
+  color: #000000;
+  transition: all ease .3s;
+}
+
 @media (max-width: 640px) {
   .header {
     position: inherit;
